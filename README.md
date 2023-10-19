@@ -1,2 +1,2 @@
 # Projects-Course-Language-C
- Anotações, Exercícios e Projetos do Curso de Linguagem C e C++ da Udemy. Curso completo do básico ao avançado, com C aplicado a estrutura de dados , criação de jogos e  Gestão Àgil de projetos com SCRUM.
+Notes, Exercises and Projects from the Udemy C and C++ Language Course. Complete course from basic to advanced, with C applied to data structure, game creation and Agile project management with SCRUM.
